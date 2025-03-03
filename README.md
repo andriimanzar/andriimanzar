@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andriimanzar
-- Currently employed as Java Developer
+- 💻 Currently employed as Java Developer
 - 📫 How to reach me :  LinkedIn: https://www.linkedin.com/in/andrii-manzar
                        
 
