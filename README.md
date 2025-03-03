@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andriimanzar
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Java
+- Currently employed as Java Developer
 - 📫 How to reach me :  LinkedIn: https://www.linkedin.com/in/andrii-manzar
                        
 
